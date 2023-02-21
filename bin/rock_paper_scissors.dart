@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-// Simple Command line Game Rock, Paper and Scissors
+// Simple Command line Game: Rock, Paper and Scissors
 enum Move { rock, paper, scissors }
 
 void main() {
